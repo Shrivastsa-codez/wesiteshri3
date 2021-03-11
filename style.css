@@ -1,0 +1,51 @@
+body{
+margin:0;
+padding-top: 80px;
+background-color:aquamarine;
+color: darkslategrey;
+text-align: center;
+}
+
+h1{
+text-shadow:2px 2px #FFD859;
+font-size: 20px;
+}
+
+.menu{
+list-style: none;
+font-family:monospace;
+position: absolute;
+top: 10px;
+right: 10px;
+z-index: 10; 
+cursor: pointer;
+}
+
+.links{
+float: left;
+color: firebrick;
+padding-top: 5px;
+padding-left: 9px;
+padding-right: 9px;
+padding-bottom: 5px;
+font-family: monospace;
+font-size: 20px;
+}
+
+.links:hover{
+background-color:aqua;
+}
+
+#name
+
+a{
+text-decoration: none;
+}
+
+.article:hover{
+color: beige
+}
+
+html{
+scroll-behavior: smooth;
+}
